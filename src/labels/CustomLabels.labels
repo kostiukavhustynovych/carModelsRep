@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>CM_Brand</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CM_Brand</shortDescription>
+        <value>Brand:</value>
+    </labels>
+    <labels>
+        <fullName>CM_CarModels</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Label of the component carModelPricesInfo</shortDescription>
+        <value>Car Models</value>
+    </labels>
+    <labels>
+        <fullName>CM_ChooseCarModel</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CM_ChooseCarModel</shortDescription>
+        <value>Choose a car model</value>
+    </labels>
+    <labels>
+        <fullName>CM_InfoRetrievalError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Failed to retrieve car models info</shortDescription>
+        <value>Failed to retrieve car models info. Please Contact your System Admin</value>
+    </labels>
+    <labels>
+        <fullName>CM_LoadingCarModels</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Loading car models msg</shortDescription>
+        <value>Loading car models...</value>
+    </labels>
+    <labels>
+        <fullName>CM_LoadingCarPrice</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Loading price...</shortDescription>
+        <value>Loading price...</value>
+    </labels>
+    <labels>
+        <fullName>CM_MarketPrice</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CM_MarketPrice</shortDescription>
+        <value>Market Price:</value>
+    </labels>
+    <labels>
+        <fullName>CM_ModelName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CM_ModelName</shortDescription>
+        <value>Model Name:</value>
+    </labels>
+    <labels>
+        <fullName>CM_PleaseSelectCar</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Placeholder when car is not selected</shortDescription>
+        <value>Please select  a car model to show related data</value>
+    </labels>
+    <labels>
+        <fullName>CM_PriceRetrievalError</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Failed to retrieve real-time prices</shortDescription>
+        <value>Failed to retrieve real-time prices. Please Contact your System Admin</value>
+    </labels>
+    <labels>
+        <fullName>CM_SelectCarModel</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CM_SelectCarModel</shortDescription>
+        <value>Select a Car Model</value>
+    </labels>
+</CustomLabels>
