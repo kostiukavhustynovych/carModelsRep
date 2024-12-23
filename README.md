@@ -33,7 +33,7 @@
 
 4. **UI Examples**:
    - **PC Version**:
-     ![Recording 2024-12-23 at 08 38 03](https://github.com/user-attachments/assets/f0a3055f-1106-49d3-83f4-0a0e155127ec)
+    ![Recording 2024-12-23 at 08 53 10](https://github.com/user-attachments/assets/4780cb8c-e63d-4338-9d21-c40fe2d38b8f)
 
    - **Mobile Version**:
      ![Recording 2024-12-23 at 08 43 33](https://github.com/user-attachments/assets/df133113-44bd-49b3-b98a-12f80095ef64)
